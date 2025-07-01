@@ -1,0 +1,10 @@
+<resources>
+    <string name="app_name">Stroik Gitarowy</string>
+    <string name="strojenie">Strojenie</string>
+    <string name="stop_tuning">Stop</string>
+    <string name="frequency_label">%.2f Hz</string>
+    <string name="detected_string_label">Struna: %s</string>
+    <string name="tuning_label">%s</string>
+    <string name="permission_error">Dostep nie przyznany. Prosze wlaczyc dostep.</string>
+    <string name="permission_denied">Brak permisji nie mozna zacząc badania dzwieku.</string>
+</resources>
